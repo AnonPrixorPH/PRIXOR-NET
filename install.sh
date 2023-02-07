@@ -4,3 +4,4 @@ pip3 install httpx;
 unzip PRIXOR-KILLER.zip;
 unzip YOLANDA.zip;
 chmod +x *;
+sudo apt install screen;
