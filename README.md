@@ -1,9 +1,13 @@
-Step 1:
+# 🚀 PRIXOR-NET 🚀
 
-git clone https://github.com/AnonPrixorPH/PRIXOR-NET
+# Info
+- [x] Powerful
+- [x] Simple
+- [x] Layer 7 Methods
 
-Step 2: 
-bash install.sh
-
-Step 3:
-python3 net.py after executing command methods 
+# Next Update:
+- Adding new methods
+- Making one line shortcut execution.
+- Updating Methods
+- Making secure and anonymous.
+- Adding Proxycrawl to get automatic proxy
