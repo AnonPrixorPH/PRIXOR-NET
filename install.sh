@@ -1,0 +1,3 @@
+pip install pycryptodome;
+pip3 install colorama;
+pip3 install httpx;
