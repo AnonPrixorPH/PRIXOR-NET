@@ -7,7 +7,7 @@
 
 # Next Update:
 - Adding new methods
-- Making one line shortcut execution.
+- ~~Making one line shortcut execution.~~
 - Updating Methods
 - Making secure and anonymous.
 - Adding Proxycrawl to get automatic proxy
